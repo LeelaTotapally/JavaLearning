@@ -4,6 +4,9 @@ import java.util.Iterator;
 import java.util.Set;
 import java.util.TreeSet;
 
+/**
+ *These are class level comments
+ */
 public class TreeSetExamples {
 	public static void printExamples()
 	{
