@@ -10,3 +10,7 @@ public class ReverseOrder {
 	}
 
 }
+
+
+// This code prints the array in reverse
+// We need the array itself to have the elements reversed
