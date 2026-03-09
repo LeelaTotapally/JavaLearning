@@ -1,0 +1,24 @@
+{
+  "name": "revert-my-commits",
+  "version": "1.0.0",
+  "description": "A tool to revert git commits programmatically and handle any merge conflicts.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "simple-git": "^2.45.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": ["git", "revert", "commits"],
+  "author": "Your Name",
+  "license": "MIT"
+}
