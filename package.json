@@ -1,0 +1,11 @@
+{
+  "name": "addition-program",
+  "version": "1.0.0",
+  "description": "A simple addition program that takes input and outputs the sum of two numbers.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
